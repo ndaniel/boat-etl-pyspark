@@ -1,0 +1,5 @@
+pandas
+numpy
+pandera
+pyspark
+pyarrow>=11.0.0
