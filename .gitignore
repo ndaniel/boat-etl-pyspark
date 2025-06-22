@@ -1,0 +1,15 @@
+echo '__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+output/
+.env
+*.log
+*.egg-info/
+dist/
+build/
+.DS_Store
+.parquet
+.parquet.crc' > .gitignore
+
+
+
